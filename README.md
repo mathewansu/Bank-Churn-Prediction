@@ -24,12 +24,11 @@ Link to the Kaggle project site:https://www.kaggle.com/barelydedicated/bank-cust
 - EstimatedSalary: Estimated salary of the customer.
 - Exited: Did they leave the bank after all?
 
-Ojective is achieved using neural network
-## Network Architecture
+## Neural Network Architecture
 
 ![alt text](https://github.com/mathewansu/Bank-Churn-Prediction/blob/main/network_architecture.PNG)
 
-Results and Conclusion
+## Results and Conclusion
 
 - Businesses like banks that provide service have to worry about the problem of 'Churn' i.e. customers leaving and joining another service provider.
 - That is our model must learn all customers who are about to leave
